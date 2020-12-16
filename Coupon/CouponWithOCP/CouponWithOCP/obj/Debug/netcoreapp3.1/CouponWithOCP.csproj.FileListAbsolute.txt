@@ -1,0 +1,12 @@
+A:\kuliah\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+A:\kuliah\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+A:\kuliah\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+A:\kuliah\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+A:\kuliah\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+A:\kuliah\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+A:\kuliah\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+A:\kuliah\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+A:\kuliah\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+A:\kuliah\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+A:\kuliah\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+A:\kuliah\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
